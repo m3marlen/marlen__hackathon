@@ -36,7 +36,7 @@ nav {
 
 .nav__items {
   display: flex;
-  width: 50%;
+  width: 60%;
 }
 
 .button-24:hover,
@@ -65,7 +65,7 @@ nav {
   cursor: pointer;
   display: inline-block;
   font-family: nunito, roboto, proxima-nova, "proxima nova", sans-serif;
-  font-size: 22px;
+  font-size: 14px;
   font-weight: 800;
   line-height: 16px;
   min-height: 40px;
